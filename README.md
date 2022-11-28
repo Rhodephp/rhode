@@ -4,9 +4,6 @@
 <br></br>
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=rhodephp&color=ED4245"/>
-</div>
-<div align="center">
    <a href="https://discord.com/users/797503148578177064" target="_blank">
    </a>
 </div>
