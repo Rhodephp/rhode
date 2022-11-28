@@ -1,6 +1,6 @@
-# <h3> Merhaba, ben Rhode <h3>
+# <h3> Merhaba ben Egemen <h3>
 </h1>
-Merhaba ben Egemen. Öğrenciyim uzun yıllardır yazılıma merakım var. Uzun süredir projeler geliştiriyorum.
+Öğrenciyim uzun yıllardır yazılıma merakım var. Uzun süredir projeler geliştiriyorum.
 <br></br>
 
 <div align="center">
